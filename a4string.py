@@ -1,0 +1,10 @@
+string = "hi this is mahadi"
+print(string[4:9])
+print(len(string))
+print(string[-17:1])
+print(string.isalnum())
+print(string.isalpha())
+print(string.endswith("mahadi"))
+print(string.startswith("hi"))
+print(string.count("is"))
+print(string.count('his'))
